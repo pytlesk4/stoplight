@@ -1,0 +1,5 @@
+title: bear test home
+type: object
+properties:
+  id:
+    type: string
